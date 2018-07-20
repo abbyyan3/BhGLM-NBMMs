@@ -10,13 +10,13 @@ The BhGLM package is actively and openly developed on GitHub:
 
 <https://github.com/abbyyan3/BhGLM/>
 
-<div class="toc" markdown="1">
-## The following links are some example codes used for manuscripts with BhGLM:
+<!--<div class="toc" markdown="1">-->
+<!--## The following links are some example codes used for manuscripts with BhGLM:-->
 
-{% for lesson in site.pages %}
-{% if lesson.nav == true %}- [{{ lesson.title }}]({{ lesson.url | absolute_url }}){% endif %}
-{% endfor %}
-</div>
+<!--{% for lesson in site.pages %}-->
+<!--{% if lesson.nav == true %}- [{{ lesson.title }}]({{ lesson.url | absolute_url }}){% endif %}-->
+<!--{% endfor %}-->
+<!--</div>-->
 
 
 
