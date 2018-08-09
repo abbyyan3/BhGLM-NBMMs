@@ -4,7 +4,7 @@ This package provides functions for setting up and fitting various Bayesian hier
        
 The BhGLM package is actively and openly developed on GitHub: 
 
-(https://github.com/abbyyan3/BhGLM/)
+(https://github.com/nyiuab/BhGLM/)
 
 License: GPL
 
